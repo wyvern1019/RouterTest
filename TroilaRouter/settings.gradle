@@ -1,0 +1,1 @@
+include ':app', ':beauty', ':facedetect', ':video', ':router_api', ':function', ':router_annotation', ':router_compiler'
